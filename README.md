@@ -14,5 +14,6 @@ Each folder contains a standalone Python script and its documentation.
 2. **[Blackjack CLI](./02_Blackjack_CLI)** - terminal-based card game featuring automated dealer logic. This project focuses on managing state with lists and dictionaries, complex loop nesting, and input validation.
 3. **[Caesar's Cipher](./03_Caesar's_Cipher)** - terminal-based encryption tool that applies the classic Caesar Cipher algorithm. This project focuses on character-to-number mapping using ASCII standards and procedural logic flow.
 4. **[Cho-Han CLI](./04_Cho-Han_CLI)** - terminal-based game that simulates the traditional Japanese game of Cho-Han, allowing a player to bet on whether the sum of two randomly rolled dice will be even or odd over a specified number of rounds.
+5. **[Cho-Han GUI](./05_Cho-Han_GUI)** - a graphical user interface for the Cho-Han game using Tkinter, featuring interactive buttons for betting and dynamic visual feedback for dice rolls and game results.
 ---
 *Created by Kamil Ciesielski*
